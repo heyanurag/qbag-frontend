@@ -2,15 +2,15 @@
 
 _QBaG: Question Bank Generator uses a crowdsourcing approach to create a question bank of objective questions and offers academicians and paper setters an interface to create questions and papers using our automated and reliable system. Contributed questions are reviewed by experts as and put through a series of automated checks. The questions can be generated based on desired criteria like the board, subject, marks, difficulty, topic, medium, and language, etc. The final question paper can be exported to PDF and can be saved in the application itself for future use._
 
-_A [backend api](https://github.com/Team-Executables/qbag-backend) has been built using **Django REST framework** to achieve the same._
+_A [backend api](https://github.com/heyanurag/qbag-backend) has been built using **Django REST framework** to achieve the same._
 
 <br/>
 
 **Link to the website:** [https://qbag.netlify.app/](https://qbag.netlify.app/)
 <br/>
-**Link to backend repo:** [https://github.com/Team-Executables/qbag-backend](https://github.com/Team-Executables/qbag-backend)
+**Link to backend repo:** [https://github.com/heyanurag/qbag-backend](https://github.com/heyanurag/qbag-backend)
 <br/>
-**Link to the project presentation:** [Question Bank Generator.pdf](https://github.com/Team-Executables/qbag-frontend/blob/main/Question%20Bank%20Generator.pdf)
+**Link to the project presentation:** [Question Bank Generator.pdf](https://github.com/heyanurag/qbag-frontend/blob/main/Question%20Bank%20Generator.pdf)
 <br/>
 <br/>
 
